@@ -3,7 +3,7 @@ awesome-llm-dev:   tools or libraries for developing LLM applications⚡
 
 ## app
 - privateGPT: Interact privately with your documents using the power of GPT, 100% privately, no data leaks . https://github.com/imartinez/privateGPT
-- ChatGPT-Next-Web:A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 https://github.com/Yidadaa/ChatGPT-Next-Web
+- ChatGPT-Next-Web:A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). https://github.com/Yidadaa/ChatGPT-Next-Web
 - autogpt:An experimental open-source attempt to make GPT-4 fully autonomous. https://github.com/Significant-Gravitas/Auto-GPT
 
 ## ChatGPT UI
